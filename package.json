@@ -1,5 +1,5 @@
 {
-  "name": "@pautym/modern-eleventy-plugin-schema",
+  "name": "@denverprophitjr",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pautym/modern-eleventy-plugin-schema.git"
+    "url": "git+https://github.com/denverprophitjr/modern-eleventy-plugin-schema/.git"
   },
   "keywords": [
     "11ty",
@@ -33,15 +33,15 @@
     "schema"
   ],
   "author": {
-    "name": "Paul Tymoschtschuk"
+    "name": "Denver Prophit Jr."
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pautym/modern-eleventy-plugin-schema/issues"
+    "url": "https://github.com/denverprophitjr/modern-eleventy-plugin-schema/issues"
   },
-  "homepage": "https://github.com/pautym/modern-eleventy-plugin-schema#readme",
+  "homepage": "https://github.com/denverprophitjr/modern-eleventy-plugin-schema#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.2",
     "@commitlint/cli": "^9.0.1",
     "@commitlint/config-conventional": "^13.2.0",
     "@semantic-release/changelog": "^5.0.1",
@@ -60,7 +60,7 @@
     "semantic-release": "^17.1.1"
   },
   "peerDependencies": {
-    "@11ty/eleventy": "^0.12.0"
+    "@11ty/eleventy": "^1.0.2"
   },
   "config": {
     "commitizen": {
