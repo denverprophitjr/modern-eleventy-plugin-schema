@@ -10,10 +10,7 @@
 - [Related plugins](#related-plugins)
 - [License](#license)
 
-# Thanks to:
-[quasibit](https://github.com/quasibit) for creating -[@quasibit/eleventy-plugin-schema](https://github.com/quasibit/eleventy-plugin-schema)
-
-## Installation
+# Installation
 
 Install the package:
 
